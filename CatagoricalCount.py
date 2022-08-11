@@ -4,7 +4,8 @@
 ##
 ## Created and managed by: Bryce Mathews
 ##############################
-## Loading Library
+## Loading Library 
+# Loads numpy and pandas
 
 from numpy import average
 import pandas as pd
